@@ -1,0 +1,2 @@
+admin|136f8b4bcdbc730bb23900148c8ad951b2a8cde12fd91cb1a8dcfee3aa68ef1e|Administrador|Administrador General|true
+rrhh|136f8b4bcdbc730bb23900148c8ad951b2a8cde12fd91cb1a8dcfee3aa68ef1e|Recursos Humanos|Coordinacion RRHH|true
