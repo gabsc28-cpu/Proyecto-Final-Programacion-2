@@ -206,14 +206,6 @@ Main.java
 
 ---
 
-## 📚 Autor
-
-**Gabriel Solano**
-Estudiante de Tecnologías de Información
-Costa Rica 🇨🇷
-
----
-
 ## 🧠 Notas Finales
 
 Este proyecto fue desarrollado con apoyo de herramientas de inteligencia artificial, aplicando iteración, validación y mejoras manuales para cumplir con los requisitos del curso y lograr un sistema funcional y estructurado.
